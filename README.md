@@ -2,8 +2,6 @@
 
 Este projeto foi desenvolvido com o objetivo didático utilizando HTML, CSS e JavaScript.
 
-[FIGMA](https://www.figma.com/design/prgjOefgCyRAbhN1HMY8Io/Sistema-de-reembolso-(Community)?node-id=915-685&t=K0oX1p79RUZmskQl-0) 
-
 ![Thumbnail (5)](https://github.com/user-attachments/assets/4b35419e-951a-483c-ba28-baf6f7f21a2a)
 
 ##  Visão Geral
