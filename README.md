@@ -2,8 +2,6 @@
 
 Este projeto foi desenvolvido com o objetivo didático utilizando HTML, CSS e JavaScript.
 
-![Thumbnail (5)](https://github.com/user-attachments/assets/4b35419e-951a-483c-ba28-baf6f7f21a2a)
-
 ##  Visão Geral
 
 Refund é uma plataforma desenvolvida para cadastrar gastos que precisam ser reembolsados, preenchendo um formulário com o valor, nome e tipo de gasto. A aplicação oferece uma interface intuitiva e moderna para facilitar o processo de solicitação de reembolso pelos funcionários de uma empresa.
